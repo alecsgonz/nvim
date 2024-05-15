@@ -21,6 +21,7 @@ uninstall:
 ```bash
 rm -rf ~/.config/nvim
 rm -rf ~/.local/share/nvim
+```
 
 Refer to the [documentation](https://lazyvim.github.io/installation) for more info.
 
