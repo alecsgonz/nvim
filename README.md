@@ -1,7 +1,23 @@
-# 💤 LazyVim
+# lazyvim starter template
 
 A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
-Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
+
+install neovim:
+```bash
+brew install neovim
+```
+
+install starter template:
+```bash
+git clone https://github.com/alecsgonz/nvim.git --depth 1 ~/.config/nvim && nvim
+```
+
+remove git tracking:
+```bash
+rm -rf ~/.config/nvim/.git
+```
+
+Refer to the [documentation](https://lazyvim.github.io/installation) for more info.
 
 ## ⚡️ Requirements
 
